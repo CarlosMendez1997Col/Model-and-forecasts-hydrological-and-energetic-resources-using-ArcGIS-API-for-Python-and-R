@@ -1,4 +1,4 @@
-# Models and forecasts hidrological and energetic resources using ArcGIS API for Python and R
+# Models and forecasts hydrological and energetic resources using ArcGIS API for Python and R
 
 ## Description
 
